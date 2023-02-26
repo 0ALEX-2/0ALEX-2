@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advance React,Redux,NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://0alex-2.github.io/](https://0alex-2.github.io/)
+- 👨‍💻 All of my projects are available at [https://0alex-2.github.io/portfolio/](https://0alex-2.github.io/portfolio/)
 
 - 💬 Ask me about **MERN**
 
